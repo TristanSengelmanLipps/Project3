@@ -34,8 +34,6 @@ int main() {
     pid_t pid;
     int status;
 
-    char line[256];
-
     while (1) {
 
 	    fprintf(stderr,"rsh>");
